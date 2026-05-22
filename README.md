@@ -4,9 +4,9 @@
 
 Discord moderation bot with an image auto-detection system based on hash comparisons.
 
-## [Vulkan project (Very WIP)](https://github.com/gwtjxyz/VulkanHppTutorial)
+## [Vulkan project (WIP)](https://github.com/gwtjxyz/VulkanRenderEngine)
 
-Still mostly learning the ropes and experimenting with this; under active development.
+Under active development; project to learn a modern graphics API while trying to use best modern practices when applicable.
 
 ![](assets/vulkan.png)
 
