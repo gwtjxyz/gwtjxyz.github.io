@@ -6,7 +6,7 @@
 
 A co-op Unreal Engine 5 game about being on a submarine. I'm working on it together with my brother and some of his university friends.
 
-## [GWBot](github.com/gwtjxyz/GWBot)
+## [GWBot](https://github.com/gwtjxyz/GWBot)
 
 ### Written in: C# (NetCord)
 
